@@ -1,8 +1,6 @@
 # ![talkspritefinalanimateESXPORTEMPT](https://github.com/user-attachments/assets/a95f5277-ce2f-433e-991e-4c0d49018823) Hello! I'm _Mongo_
 
-I make games with **Gamemaker**! 
-
-Until late 2022, I used to just be an artist, but I got into GML so that I could finally stop being that person who "wants to make a game someday." It's been really fun to learn, and I have stuck with it ever since.
+I'm a gamedev who uses Gamemaker! My main focus used to be [art](https://mongosnow-gallery.carrd.co/), but in late 2022, I decided to get into GML because I was fed up with saying, "I want to make games _someday_." Now, I can say that "_I make games_" instead. It's been really fun to learn, and I want to keep learning _more_.
 
 All of my game project repos are private, but I'll occasionally make small stuff I've made like asset packs or little prototypes public.
 
@@ -18,7 +16,5 @@ _**A Touhou-inspired scrolling shooter bullet hell game about magic dragon girls
 
 ### 💙 Steam page coming soon
 ### [💜 Website](https://noneedforflowers.com/)
-
-~~I need to finish the capsule art, lol~~
 
 *****************
