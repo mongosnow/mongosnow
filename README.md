@@ -1,6 +1,6 @@
 # ![talkspritefinalanimateESXPORTEMPT](https://github.com/user-attachments/assets/a95f5277-ce2f-433e-991e-4c0d49018823) Hello! I'm _Mongo_
 
-I'm a gamedev who uses Gamemaker! My main focus used to be [art](https://mongosnow-gallery.carrd.co/), but in late 2022, I decided to get into GML because I was fed up with saying, "I want to make games _someday_." Now, I can say that "_I make games_" instead. It's been really fun to learn, and I want to keep learning _more_.
+I'm a gamedev who uses Gamemaker! My main focus used to be [art](https://mongosnow-gallery.carrd.co/), and in late 2022, I decided to get into GML as well. It's been really fun to learn, and I want to keep learning _more_.
 
 All of my game project repos are private, but I'll occasionally make small stuff I've made like asset packs or little prototypes public.
 
