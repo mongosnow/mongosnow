@@ -1,4 +1,4 @@
-# ![talkspritefinalanimateESXPORTEMPT](https://github.com/user-attachments/assets/a95f5277-ce2f-433e-991e-4c0d49018823) Hello! I'm _Mongo_
+# ![talkspritefinalanimateESXPORTEMPT](https://github.com/user-attachments/assets/a95f5277-ce2f-433e-991e-4c0d49018823) Hello!
 
 I'm a gamedev who uses Gamemaker! My main focus used to be [art](https://mongosnow-gallery.carrd.co/), and in late 2022, I decided to get into GML as well. It's been really fun to learn, and I want to keep learning _more_.
 
